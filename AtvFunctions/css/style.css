@@ -1,0 +1,79 @@
+.mainbox {
+  border: 1px solid blue;
+  width: 600px;
+  height: auto;
+  padding-bottom: 10px;
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+.title{
+  font-size: 30px;
+  text-align: center;
+  font-family: verdana;
+  letter-spacing: 1px;
+  background-color: aqua;
+}
+
+#numberBase, #numero1, #numero2{
+  height: 50px;
+  width: 500px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+#button1, #button2, #button3, #button4{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+#resultado, #resultado2{
+  height: 100px;
+  width: 200px;
+  border: 1px solid black;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  box-sizing: border-box;
+  background-color: aqua;
+  text-align: center;
+  padding-left: 90px;
+  padding-top: 40px;
+}
+
+
+
+#nome, #nome2{
+  height: 50px;
+  width: 500px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+
+#stateBox, #areas {
+  height: 50px;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  text-align: center;
+}
+
+#resultado3, #resultado4 {
+  height: 70px;
+  width: 300px;
+  border: 1px solid black;
+  margin-top: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: aqua;
+}
